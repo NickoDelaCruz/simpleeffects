@@ -1,5 +1,6 @@
-#hide {
+#hide #o-show {
   display: none;
+
 
 }
 
@@ -10,4 +11,12 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+body {
+  text-align: center;
+  font-size: 50px;
+  color:green;
+  background: pink;
+  
 }
