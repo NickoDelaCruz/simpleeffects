@@ -11,6 +11,11 @@ $(document).ready(function() {
     $("#r-show").slideToggle();
     $("#c-show").slideToggle();
     $("#s-show").slideToggle();
+    $("#b-show").slideToggle();
+    $("#u-show").slideToggle();
+    $("#n-show").slideToggle();
+    $("#e-show").slideToggle();
+    $("#al-show").slideToggle();
 
 
 
